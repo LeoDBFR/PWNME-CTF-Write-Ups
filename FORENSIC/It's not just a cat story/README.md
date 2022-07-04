@@ -4,6 +4,8 @@
 
 Auteur : "Mr.NOODLE#9112"
 
+Nombre final de points : 50
+
 Fichier : Acquisition.eo1
 
 Je me suis renseigné sur ce type de fichier, j'en ai déduit qu'il contenait une copie RAW corrompu d'une clé usb.
