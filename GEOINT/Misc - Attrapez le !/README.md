@@ -8,10 +8,10 @@ Auteur : "Skylopha#7395"
 
 Nombre final de points : 162
 
-![geoint]
+![geoint](https://github.com/LeoDBFR/PWNME-CTF-Write-Ups/blob/main/GEOINT/Misc%20-%20Attrapez%20le%20!/geoint.PNG?raw=true)
 
 J'ai reconnu les lampadaires de Paris et la presque-île de Saint-Louis, j'en ai déduit via la vue satellite l'emplacement de la photo, c'est à dire le Quai D'Orléans.
 
-![screen1]
+![screen1](https://github.com/LeoDBFR/PWNME-CTF-Write-Ups/blob/main/GEOINT/Misc%20-%20Attrapez%20le%20!/screen1.png?raw=true)
 
 J'ai donc tenté "PWNME{quai_d'orléans}", et ça a marché.
