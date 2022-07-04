@@ -8,16 +8,16 @@ Auteur : "Skylopha#7395"
 
 Nombre final de points : 50
 
-![step2]
+![step2](https://github.com/LeoDBFR/PWNME-CTF-Write-Ups/blob/main/GEOINT/2sur4%20-%20Au%20bord%20de%20l'eau/step2.png?raw=true)
 
 J'ai procédé à une reverse search avec Yandex, l'image correspondant le plus était "Roselières du Cap des Séselets et Dent du Chat (été 2020).JPG" sur Wikimedia Commons.
 
-![wikimedia]
+![wikimedia](https://github.com/LeoDBFR/PWNME-CTF-Write-Ups/blob/main/GEOINT/2sur4%20-%20Au%20bord%20de%20l'eau/wikimedia.JPG?raw=true)
 
 J'ai donc cherché à la Dent Du Chat, au lac d'Annecy, un endroit similaire en vue satelite.
 
 Près d'un restaurant plage, une petite plage ressemblait au lieu vu du ciel.
 
-![screen1]
+![screen1](https://github.com/LeoDBFR/PWNME-CTF-Write-Ups/blob/main/GEOINT/2sur4%20-%20Au%20bord%20de%20l'eau/screen1.png?raw=true)
 
 J'ai donc tenté "PWNME{digue_à_panade}", et ça a marché.
