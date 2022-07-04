@@ -8,7 +8,7 @@ Auteur : "Skylopha#7395"
 
 Nombre final de points : 308
 
-![part4]
+![part4](https://github.com/LeoDBFR/PWNME-CTF-Write-Ups/blob/main/GEOINT/4sur4%20-%20Vue%20du%20ciel/part4.png?raw=true)
 
 J'ai vu un avion sur l'image, donc j'ai tracé un trait entre Amboise et Annecy, j'ai regardé la liste de tout les aérodromes de france et j'ai suivi le trait jusqu'à tomber sur le bon, c'est à dire celui de Paray-le-Monial.
 
