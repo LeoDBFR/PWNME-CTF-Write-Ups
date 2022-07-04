@@ -8,10 +8,10 @@ Auteur : "Skylopha#7395"
 
 Nombre final de points : 50
 
-![step3]
+![step3](https://github.com/LeoDBFR/PWNME-CTF-Write-Ups/blob/main/GEOINT/3sur4%20-%20La%20t%C3%AAte%20dans%20les%20nuages/step3.jpg?raw=true)
 
 J'ai fait une recherche inversé de l'image sur Yandex, et je suis parti du principe que nous étions proche des lieux précedents, et une image provenant de Wikimedia, prise au Plateau du Semnoz, semblait correspondre.
 
-![semnoz]
+![semnoz](https://github.com/LeoDBFR/PWNME-CTF-Write-Ups/blob/main/GEOINT/3sur4%20-%20La%20t%C3%AAte%20dans%20les%20nuages/semnoz.jpg?raw=true)
 
 J'ai donc tenté "PWNME{semnoz}", et ça a marché.
